@@ -1,0 +1,8 @@
+Bestückungsplan
+Version V1.73
+
+GitHub Pages: https://beak-electronic.github.io/bestueckungsplan/
+Repo: https://github.com/beak-electronic/bestueckungsplan
+Branch main, root (/) — built static site (Vite dist/).
+
+Optional Netlify Drop: upload dist/ folder contents (no ZIP required).
