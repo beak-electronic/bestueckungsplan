@@ -1,5 +1,5 @@
 Bestückungsplan
-Version V1.73
+Version V1.74
 
 GitHub Pages: https://beak-electronic.github.io/bestueckungsplan/
 Repo: https://github.com/beak-electronic/bestueckungsplan

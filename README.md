@@ -1,7 +1,7 @@
 # Bestückungsplan
 
 Browser-basierte Bestückhilfe für manuelles PCB-Bestücken (Pick-and-Place-Tracking).  
-Version **V1.73**.  
+Version **V1.74**.  
 **Unabhängige Neuentwicklung** (keine offizielle Eiger-App). Lizenz: **GPLv3**.
 
 **Live (GitHub Pages):** https://beak-electronic.github.io/bestueckungsplan/
